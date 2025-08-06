@@ -14,7 +14,7 @@
 
 📝 **Experience & Certifications**
 - Content Writing Intern, The Vigyan Chronicles
-- Proofreader/Contributor, Calyx Magazine
+- Proofreader & Contributor, Calyx Magazine
 - NASA GeneLab GL4U (bioinformatics, R, Unix, Jupyter)
 - WHO Research Ethics Certified
 - GAT-B 2025 (AIR 235 Qualified), CUET-PG Qualified
