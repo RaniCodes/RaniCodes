@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Vaishnavi Salunke!
 
-<!--
-**RaniCodes/RaniCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Clinical Bioinformatician • Science Communicator • Data-driven Research in India**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**
+- B.Sc. Zoology, Sir Parashurambhau College (Pune)
+- Incoming M.Sc. Bioinformatics, SPPU (August 2025)
+
+🧬 **Interests**
+- Clinical Bioinformatics | Genomics | Clinical Research
+- Bioethics | Data-driven Solutions in Healthcare | Science Communication
+
+📝 **Experience & Certifications**
+- Content Writing Intern, The Vigyan Chronicles
+- Proofreader/Contributor, Calyx Magazine
+- NASA GeneLab GL4U (bioinformatics, R, Unix, Jupyter)
+- WHO Research Ethics Certified
+- GAT-B 2025 (AIR 235 Qualified), CUET-PG Qualified
+- Academic Experience: Pondicherry University
+
+🏆 **Achievements**
+- B.Sc. Top Grade (CGPA 9.41)
+- 1st Prize, Science Exhibit: Circadian Rhythm Model
+
+---
+
+## 📄 Portfolio & Links
+
+- [Portfolio Website](https://vaishnavi-portfolio-website-26.lovable.app/)
+- [LinkedIn](https://www.linkedin.com/in/vaishnavisalunke01/)
+- [Email Me](mailto:vaishnavimahadev26@gmail.com)
+
+---
+
+## ⚙️ Skills
+
+- Core: Bioinformatics, R, Python basics, Genomics, Clinical Data
+- Also: Research Ethics, Science Communication, Project Presentation
+
+---
+
+## 🤝 Let’s Collaborate!
+
+I’m eager to connect with students, professionals, and researchers in clinical bioinformatics, genomics, or healthcare data science.  
+Let’s work together to make research impactful and accessible.
+
+---
+
+> “Driven by curiosity, ethics, and the excitement of bridging biology with data for better healthcare in India.”
