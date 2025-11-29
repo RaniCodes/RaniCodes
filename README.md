@@ -6,7 +6,7 @@
 
 🎓 **Education**
 - B.Sc. Zoology, Sir Parashurambhau College (Pune)
-- Incoming M.Sc. Bioinformatics, SPPU (August 2025)
+- M.Sc. Bioinformatics, SPPU (August 2025-27)
 
 🧬 **Interests**
 - Clinical Bioinformatics | Genomics | Clinical Research
