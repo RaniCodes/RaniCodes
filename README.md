@@ -36,7 +36,7 @@
 
 ## ⚙️ Skills
 
-- Core: Bioinformatics, R, Python basics, Genomics, Clinical Data
+- Core: Bioinformatics, R, Python basics, Genomics, Clinical Data, (Currently learning- Bulk RNASeq Analysis)
 - Also: Research Ethics, Science Communication, Project Presentation
 
 ---
