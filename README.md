@@ -67,12 +67,6 @@ RNA-seq preprocessing, quality control with FastQC/fastp, Galaxy workflows, bioi
 - **1st Prize, Science Exhibit** - Circadian Rhythm Model presentation
 - **Content Writing Intern** - The Vigyan Chronicles (science communication)
 - **Proofreader & Contributor** - Calyx Magazine (SP College's first research magazine, scientific editorial work)
-
-### Leadership & Outreach
-- **Academic Experience** - Pondicherry University research exposure
-- **Science Communication** - Active contributor to making research accessible
-- **Peer Mentorship** - Supporting students entering bioinformatics field
-
 ---
 
 ## 💻 Tech Stack
