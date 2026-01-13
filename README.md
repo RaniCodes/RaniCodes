@@ -132,14 +132,31 @@ RNA-seq preprocessing, quality control with FastQC/fastp, Galaxy workflows, bioi
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RaniCodes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RaniCodes&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaniCodes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaniCodes&show_icons=true&theme=radical&hide_border=true" width="420" alt="RaniCodes github stats"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username
+
+[![RaniCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaniCodes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+[![RaniCodes's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=RaniCodes&theme=radical&hide_border=false)
+[![RaniCodes's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaniCodes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 GitHub Stats
+
+![Your stats](https://github-readme-stats-sigma.vercel.app/api?username=RaniCodes&show_icons=true&theme=dracula)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=RaniCodes)
 
 ---
 
 ## 🏆 GitHub Trophies
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaniCodes&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/RaniCodes)
 ![](https://github-profile-trophy.vercel.app/?username=RaniCodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
