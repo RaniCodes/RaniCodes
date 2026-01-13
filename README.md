@@ -139,4 +139,8 @@ I'm eager to connect with students, professionals, and researchers in clinical b
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=RaniCodes&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+<a href="https://komarev.com/ghpvc/?username=RaniCodes">
+<img src="https://komarev.com/ghpvc/?username=RaniCodes&label=Profile%20views&color=0e75b6&style=flat" />
+</a>
+</p>
