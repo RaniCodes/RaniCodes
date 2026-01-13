@@ -76,8 +76,23 @@ RNA-seq preprocessing, quality control with FastQC/fastp, Galaxy workflows, bioi
 ---
 
 ## 💻 Tech Stack
-
+<p align="left" dir="auto">
+  <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+  <a href="https://www.r-project.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+  <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"></a>
+  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"></a>
+  <a href="https://www.linux.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
+  <a href="https://ubuntu.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"></a>
+  <a href="https://git-scm.com/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
+  <a href="https://github.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"></a>
+  <a href="https://jupyter.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"></a>
+  <a href="https://usegalaxy.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/galaxyproject/galaxy/master/doc/source/_static/galaxy_icon_big.png" alt="galaxy" width="40" height="40"></a>
+  <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" rel="nofollow"><img src="https://img.shields.io/badge/FastQC-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQwIiBmaWxsPSIjMDBiYzQwIi8+PHRleHQgeD0iNTAiIHk9IjU1IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5GPC90ZXh0Pjx0ZXh0IHg9IjUwIiB5PSI3NSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UXU8L3RleHQ+PC9zdmc+" width="40" height="40"></a>
+  <a href="https://multiqc.info/" rel="nofollow"><img src="https://img.shields.io/badge/MultiQC-blue?style=for-the-badge&logoColor=white" alt="multiqc" width="40" height="40"></a>
+</p>
 ### Languages & Programming
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
