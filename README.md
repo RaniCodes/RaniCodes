@@ -124,13 +124,6 @@ RNA-seq preprocessing, quality control with FastQC/fastp, Galaxy workflows, bioi
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=RaniCodes&theme=jolly&date_format=j%20M%5B%20Y%5D">
-</p>
-
----
-
 ## 🤝 Let's Collaborate!
 
 I'm eager to connect with students, professionals, and researchers in clinical bioinformatics, genomics, or healthcare data science. Let's work together to make research impactful and accessible.
