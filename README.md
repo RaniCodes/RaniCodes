@@ -59,7 +59,7 @@ RNA-seq preprocessing, quality control with FastQC/fastp, Galaxy workflows, bioi
 
 ### Research & Technical
 - **NASA GeneLab GL4U Certified** - Completed advanced bioinformatics training (R, Unix, Jupyter)
-- **Reproducible RNA-seq Pipeline** - Built end-to-end bulk RNA-seq workflow for prostate cancer hypoxia analysis
+- **Bulk RNA-seq Pipeline** - Built end-to-end bulk RNA-seq workflow for prostate cancer hypoxia analysis
 - **Cancer Genomics Collaboration** - Active contributor analyzing WGS and RNA-seq data across multiple cancer types
 - **WHO Research Ethics Certified** - Completed international certification in research ethics
 
